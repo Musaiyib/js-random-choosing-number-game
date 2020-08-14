@@ -3,6 +3,12 @@ p{
     font-family: sans-serif;
     color: 
 }
+btn{
+    font-size: 30px;
+    font-family: sans-serif;
+    color: blue;
+    border-radius: 50px;
+}
 /* body{
     color: white;
 } */
